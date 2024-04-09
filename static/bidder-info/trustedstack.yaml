@@ -2,7 +2,7 @@ endpoint: "https://prebid-adapter.trustedstack.com/rtb/pb/trustedstacks2s"
 extra_info: "https://trustedstack.golang.pbs.com"
 maintainer:
   email: "product@trustedstack.com"
-gvlVendorID: 142
+gvlVendorID: 1288
 endpointCompression: gzip
 openrtb:
   version: 2.6
